@@ -13,4 +13,4 @@ The following steps have been followed:
 7. Visualization in power BI
 
 
-![image](https://user-images.githubusercontent.com/98351714/219157716-940f4c77-18f1-41e0-82b4-00a1228670ac.png)
+![image](https://user-images.githubusercontent.com/98351714/219337593-a6ec004d-ac21-4b76-b73e-50ff62f2640a.png)
